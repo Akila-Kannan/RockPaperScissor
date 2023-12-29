@@ -1,0 +1,14 @@
+{
+    "name": "Rock Paper Scissor Multiplayer",
+    "description": "Rock Paper Scissor colyseyus Game Server ",
+    "repository": "https://github.com/Akila-Kannan/RockPaperScissorColyseyus.git",
+    "logo": "",
+    "keywords": ["node", "multiplayer", "colyseus","Rock","paper", "scissor", "game"],
+    "env": {
+      "NPM_CONFIG_PRODUCTION": {
+        "description": "Leave as 'false' to install required devDependencies.",
+        "value": "false"
+      }
+    }
+  }
+
